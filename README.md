@@ -1,8 +1,10 @@
-# Bootstrap Light/Dark Mode Toggle Example
+# Bootstrap Theme Toggler
 
-This is a simple example showing how to use Bootstrap 5.3's built-in Light/Dark mode toggle.
+This is a basic example showing how to implement a Light/Dark mode toggle using Bootstrap 5.3.
 
-Bootstrap includes a color mode (Light/Dark) toggle button in many of their examples, but they don't show how to implement the functionality behind it. This project fills that gap with a working demo.
+Bootstrap includes a theme toggle button in many of its examples, but doesn't explain how to wire it up. This project demonstrates the JavaScript needed to make it work.
 
-For more information, check out the official Bootstrap documentation:  
-https://getbootstrap.com/docs/5.3/getting-started/introduction 
+## Resources
+
+- [Bootstrap 5.3 Introduction](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Color Mode Toggle (JavaScript)](https://getbootstrap.com/docs/5.3/customize/color-modes/#javascript)
